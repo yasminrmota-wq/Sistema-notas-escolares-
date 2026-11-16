@@ -69,3 +69,44 @@ Responsável: acompanha o desempenho do aluno.
 Média igual ou superior a 7,0: aprovado.
 
 Média inferior a 7,0: recuperação, conforme as regras da escola.
+
+Regras do Sistema de Notas:
+
+RN01: Cada aluno deverá possuir uma matrícula única.
+
+RN02: Cada aluno deverá estar associado a uma turma.
+
+RN03: Cada disciplina deverá possuir avaliações.
+
+RN04: As notas deverão estar entre 0 e 10.
+
+RN05: A média deverá ser calculada automaticamente.
+
+RN06: Somente professores autorizados poderão lançar notas.
+
+RN07: O aluno poderá consultar apenas suas próprias notas.
+
+RN08: Cada avaliação deverá estar vinculada a uma disciplina.
+
+RN09: Cada nota deverá pertencer a um aluno e a uma avaliação.
+
+RN10: O sistema deverá permitir editar notas mediante autorização.
+
+RN11: O sistema deverá identificar alunos que não atingirem a média mínima.
+
+RN12: O sistema deverá organizar as notas por período letivo.
+
+RN13: O sistema deverá impedir o lançamento de notas fora do intervalo permitido.
+
+RN14: O sistema deverá manter o histórico das alterações de notas.
+
+
+ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Git
+- GitHub
