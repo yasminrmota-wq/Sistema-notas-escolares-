@@ -39,19 +39,29 @@ Requisitos não funcionais
 Os requisitos não funcionais descrevem como o sistema deverá funcionar.
 
 RNF01: O sistema deverá ter uma interface simples e fácil de utilizar.
+
 RNF02: O sistema deverá proteger os dados dos usuários.
+
 RNF03: O acesso deverá ser controlado por usuário e senha.
+
 RNF04: O sistema deverá funcionar nos principais navegadores.
+
 RNF05: O banco de dados deverá armazenar as informações com segurança.
+
 RNF06: O sistema deverá apresentar respostas em tempo adequado.
 
 Regras de avaliação
+
 A média será calculada com quatro notas de pesos iguais.
 
 Fórmula:  Média = (N1 + N2 + N3 + N4) / 4
 
 Usuários do sistema
+
 Administrador: gerencia o sistema.
+
 Professor: registra e consulta notas.
+
 Aluno: consulta notas e boletins.
+
 Responsável: acompanha o desempenho do aluno.
