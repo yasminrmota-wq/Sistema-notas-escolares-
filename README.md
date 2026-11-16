@@ -9,21 +9,33 @@ Objetivo
 Desenvolver um sistema web que permita registrar notas, calcular médias automaticamente e consultar o desempenho dos alunos.
 
 Requisitos funcionais
+
 Os requisitos funcionais descrevem o que o sistema deverá fazer.
 
 RF01: Permitir login dos usuários.
+
 RF02: Cadastrar, editar e excluir alunos.
+
 RF03: Cadastrar, editar e excluir professores.
+
 RF04: Cadastrar disciplinas.
+
 RF05: Cadastrar turmas.
+
 RF06: Registrar avaliações.
+
 RF07: Lançar notas dos alunos.
+
 RF08: Calcular médias automaticamente.
+
 RF09: Identificar alunos aprovados e em recuperação.
+
 RF10: Permitir consultar boletins escolares.
+
 RF11: Gerar relatórios de notas.
 
 Requisitos não funcionais
+
 Os requisitos não funcionais descrevem como o sistema deverá funcionar.
 
 RNF01: O sistema deverá ter uma interface simples e fácil de utilizar.
