@@ -65,3 +65,7 @@ Professor: registra e consulta notas.
 Aluno: consulta notas e boletins.
 
 Responsável: acompanha o desempenho do aluno.
+
+Média igual ou superior a 7,0: aprovado.
+
+Média inferior a 7,0: recuperação, conforme as regras da escola.
